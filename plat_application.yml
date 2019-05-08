@@ -8,7 +8,7 @@ server:
 spring:
   profiles: dev #开发环境
   application:
-    name: USER-PROVIDER-DEV
+    name: USER-PROVIDER
 eureka:
   client:
     service-url:
